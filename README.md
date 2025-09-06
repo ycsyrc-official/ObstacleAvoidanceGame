@@ -1,6 +1,6 @@
 # ObstacleAvoidanceGame
 
-This is a simple obstacle-avoidance game. The source code and complete executable file have been made publicly available for playing or for learning and modification. You can download the source code in the repository file list. You can download the Chinese and English version of the executable file in the 'releases'.
+This is a simple obstacle-avoidance game based on Pygame. The source code and complete executable file have been made publicly available for playing or for learning and modification. You can download the source code in the repository file list. You can download the Chinese and English version of the executable file in the 'releases'.
 
 In this game, you need to control your block(black) to avoid being hit by other blocks. There are four modes in this game, which are 'Normal Mode', 'Infinite Level Mode', 'Survival Mode' and 'Special Mode'. The rules of each mode are listed as follows.
 
